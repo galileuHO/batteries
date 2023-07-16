@@ -1,0 +1,7 @@
+For english, see below.
+
+# Este conjunto de dados, denominado CargaPilhasAA, é composto por vários arquivos com dados de descarga e de recuperação de pilhas AA de diversos fabricantes. Estes dados são distribuídos sob licença Creative Commons Attribution 4.0 (CC-BY). <http://creativecommons.org/licenses/by/4.0/>
+
+# This dataset, named CargaPilhasAA, is composed of several files with discharge and recovery of AA batteries from several manufacturers. This dataset is licensed under a Creative Commons Attribution 4.0 International License (CC-BY). <http://creativecommons.org/licenses/by/4.0/>
+
+# Galileu H. Oliveira, Rio de Janeiro, Brasil. Jan/2023.
